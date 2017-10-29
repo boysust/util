@@ -8,7 +8,11 @@ import javax.servlet.FilterConfig;
 import javax.servlet.ServletException;
 import javax.servlet.ServletRequest;
 import javax.servlet.ServletResponse;
-
+/**
+ * 
+ * @author JDK
+ *
+ */
 public class EncodingFilter implements Filter {
 	public String charset = "UTF-8" ;
 	@Override

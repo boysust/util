@@ -1,5 +1,9 @@
 package cn.mldn.util;
-
+/**
+ * 
+ * @author JDK
+ *
+ */
 public interface CommonConstantUtil {
 
     String UTF_8 = "UTF-8";
